@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "0.0.1",
-  "description": "Backend del adminbistrador deportivo HopSport",
+  "description": "Backend del administrador deportivo HopSport",
   "author": "dobsonkorp",
   "private": true,
   "license": "UNLICENSED",
